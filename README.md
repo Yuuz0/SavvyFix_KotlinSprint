@@ -24,5 +24,9 @@
 
 <br>
 
+<br>
+
 ##Alterações feitas para o CRUD do projeto
 <p> Atualizamos nosso projeto para que contenha nele um CRUD completo com novas telas dentro dele e funcionais, adicionamos o produto dentro do nosso projeto onde o usuário poderá verificar os produtos que existem ali em sua lista, poderá editar o produto, adicionar algum novo produto e tamém poderá realizar a exclusão do produto a sua escolha
+
+<br>
