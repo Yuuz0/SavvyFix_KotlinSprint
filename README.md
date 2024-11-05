@@ -23,3 +23,6 @@
 <p>As principais atividades que a solução propõe são preços dinâmicos a partir do horário que o consumidor está comprando, da demanda de compras naquele momento, da quantidade de vezes que um consumidor procurou o produto, localização, clima local e estoque do produto. Para isso, os preços do produto serão ajustados através da análise das métricas ditas anteriormente e das preferências do cliente de forma atrativa para o usuário.</p>
 
 <br>
+
+##Alterações feitas para o CRUD do projeto
+<p> Atualizamos nosso projeto para que contenha nele um CRUD completo com novas telas dentro dele e funcionais, adicionamos o produto dentro do nosso projeto onde o usuário poderá verificar os produtos que existem ali em sua lista, poderá editar o produto, adicionar algum novo produto e tamém poderá realizar a exclusão do produto a sua escolha
